@@ -1,2 +1,2 @@
 # The Yellow Panda
-# Arambagh. WB. India.
+# Arambagh, WB, India.
