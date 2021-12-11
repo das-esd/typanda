@@ -26,6 +26,11 @@ body {
   font-style: normal;
   color: #646464; }
 
+ body,html{
+    width:100%;
+    overflow-x: hidden;
+    overscroll-behavior-x: none;
+  }
 * {
   margin: 0;
   padding: 0;
